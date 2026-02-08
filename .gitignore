@@ -1,0 +1,8 @@
+# IDE
+.idea/
+
+# OS files
+.DS_Store
+
+# Large binary files
+*.pdf
